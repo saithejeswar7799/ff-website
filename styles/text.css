@@ -1,0 +1,46 @@
+    .vid-title{
+       font-family: Arial; 
+       font-size:18px;
+       font-weight: bold;
+       width: 300px;
+       line-height: 24px;
+       margin-bottom:0px;
+       margin-top: 0px;
+    }
+    .vid-stats{
+        font-family:arial;
+        font-size:13px;
+        margin-top: 0px;
+        color: rgb(89, 87, 87);
+    }
+    .vid-owner{
+        font-family:arial;
+        font-size: 14px;
+        margin-top:10px;
+        color: rgb(89, 87, 87);
+    }
+    .vid-description{
+        font-family:arial;
+        color: rgb(89, 87, 87);
+        width:300px;
+        font-size:14px;
+        line-height:22px;
+        margin-top:0px;
+    }
+    .apple{
+        margin-top:95px;
+        font-family:arial;
+        font-size:14px;
+        background-color: rgb(224, 40, 40);
+        width:100%;
+        text-align: center;
+        padding-top:18px;
+        padding-bottom:18px;
+        color:white;
+       font-family:arial;
+       font-size:15px;
+    }
+    .app-style:hover{
+        cursor:pointer;
+        text-decoration:underline;
+    }
